@@ -13,7 +13,7 @@ vpc:
           id: "subnet-083405bcd14ac0c05"
       ap-northeast-2b: 
           id: "subnet-0c30cba8eab190f8e"
-      ap-northeast-2c
+      ap-northeast-2c:
           id: "subnet-058ed18ca88316976"
 
 nodeGroups:
